@@ -1,2 +1,3 @@
 # GitFlow
-New project (Roulete)
+
+- Бикметов Эмиль
